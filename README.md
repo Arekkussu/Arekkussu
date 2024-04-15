@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate Software Engineer from Spain</h3>
 
-- 🔭 I’m currently working on Ascertia **MS Teams, Coupa...**
+- 🔭 I’m currently working on Ascertia on the Integration Teams in proyects as: **MS Teams, Coupa...**
 
 - 📫 How to reach me **alexcalafatserrano@gmail.com**
 
